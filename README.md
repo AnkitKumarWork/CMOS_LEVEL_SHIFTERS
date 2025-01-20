@@ -26,17 +26,28 @@ Energy Efficiency:
 Low energy consumption per transition.
 bility:
 Ability to operate across a wide range of voltage levels.
-
+bidirectional_bootstrap
 ![bidirectional_bootstrap](https://github.com/user-attachments/assets/e00b34fd-74f9-4875-b782-a2f463c2dad7)
+[BI_BOOTSTRAP_LOW_TO_HIGH
 ![BI_BOOTSTRAP_LOW_TO_HIGH](https://github.com/user-attachments/assets/9b59c196-9400-404b-84e8-bc0ee2367c62)
+BI_BOOTSTRAP_HIGH_TO_LOW
 ![BI_BOOTSTRAP_HIGH_TO_LOW](https://github.com/user-attachments/assets/75385ee7-626a-4707-8203-60a0856413af)
+BASIC_LEVEL_SHIFTER
 ![BASIC_LEVEL_SHIFTER](https://github.com/user-attachments/assets/67f01ee7-b343-49c3-a57d-adeb00b09cd8)
+BASIC_LS_LOW_TO_HIGH
 ![BASIC_LS_LOW_TO_HIGH](https://github.com/user-attachments/assets/a2792b83-35c5-4060-91d5-54c9ddaffe8e)
+BASIC_LS_HIGH_TO_LOW
 ![BASIC_LS_HIGH_TO_LOW](https://github.com/user-attachments/assets/848f0d68-4155-4ae5-a01e-d76b94faa47b)
+BASIC_LS_HIGH_TO_LOW
 ![BASIC_BOOTSTRAP_LS](https://github.com/user-attachments/assets/b16af559-b07c-4a74-a475-b97b30fa647b)
+BASIC_BOOTSTRAP_LS
 ![BASIC_BOOTSTRAP_LS_LOW_TO_HIGH](https://github.com/user-attachments/assets/2137e4ea-3221-4150-bc5b-64ba10314393)
+BASIC_BOOTSTRAP_LS_LOW_TO_HIGH
 ![BASIC_TG_BASED_LEVEL_SHIFT](https://github.com/user-attachments/assets/f1080a69-2ba2-4ce7-a5eb-50eca052606d)
+BASIC_TG_BASED_LEVEL_SHIFT
 ![BASIC_TG_BASED_HIGH_TO_LOW](https://github.com/user-attachments/assets/ae34f862-650a-418e-a98a-70218b194434)
+BASIC_TG_BASED_HIGH_TO_LOW
 ![cmos_buffer_based_level_shifter](https://github.com/user-attachments/assets/a9464724-db89-4e88-a9f1-deddb1f9fda6)
+cmos_buffer_based_level_shifter
 Voltage Scala![cmos_buffer_based_level_shifter_wave](https://github.com/user-attachments/assets/658058ce-7a14-492e-bcb4-13b33384f302)
 
