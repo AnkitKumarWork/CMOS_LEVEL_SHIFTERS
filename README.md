@@ -26,7 +26,7 @@ Energy Efficiency:
 Low energy consumption per transition.
 ability:
 Ability to operate across a wide range of voltage levels.
-![image](https://github.com/user-attachments/assets/dfa8aa00-674b-4209-aca0-1bae0e97cb9f)
+![image](https://github.com/user-attachments/assets/7ec0ebb6-f681-41d7-91cf-a07bc6770667)
 
 Observations
 1.	Push-pull CMOS Level Shifter:
